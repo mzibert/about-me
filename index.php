@@ -7,6 +7,7 @@
 	<body>
 		<h1> Why am I crazy?</h1>
 		<img src="images/be-you.jpeg" alt="Inspirational message"/>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/SswMzUWOiJg" frameborder="0" allowfullscreen></iframe>
 		<h2> FAMILY</h2>
 		<img src="images/Addams.jpg" alt="Creepy Familly Photo"/>
 			<ul>
